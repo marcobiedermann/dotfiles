@@ -13,6 +13,7 @@
 
 ### Environment
 1. [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
+1. [git](http://git-scm.com/)
 1. [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 1. [Node.js](http://nodejs.org/)
 1. [Ruby](https://www.ruby-lang.org/)
