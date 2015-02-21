@@ -16,6 +16,7 @@
 1. [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 1. [Node.js](http://nodejs.org/)
 1. [Ruby](https://www.ruby-lang.org/)
+1. [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 1. [Sass](http://sass-lang.com/) `gem install sass`
 1. [Bower](http://bower.io/) `npm install -g bower`
 
