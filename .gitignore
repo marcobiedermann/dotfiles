@@ -2,7 +2,6 @@
 *.diff
 *.err
 *.log
-*.map
 *.orig
 *.rej
 *.swo
@@ -31,5 +30,6 @@ nbproject
 
 # Folders to ignore
 .sass-cache
+_site
 bower_components
 node_modules
