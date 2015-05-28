@@ -1,15 +1,18 @@
 ## Tools
 
 ### Applications
-* [Google Chrome](http://www.google.com/chrome/)
+* [1Password](https://agilebits.com/onepassword)
 * [Alfred App](http://www.alfredapp.com/)
 * [Dropbox](https://www.dropbox.com/)
-
-### Development
-* [Sublime Text](http://www.sublimetext.com/)
+* [Google Chrome Canary](https://www.google.de/chrome/browser/canary.html)
+* [Google Chrome](http://www.google.com/chrome/)
 * [ImageOptim](https://imageoptim.com/)
+* [iTerm2](https://www.iterm2.com/)
 * [Mamp](http://www.mamp.info/de/)
+* [SVGO](https://github.com/svg/svgo)
+* [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [SourceTree](http://www.sourcetreeapp.com/)
+* [Sublime Text](http://www.sublimetext.com/)
 
 ### Environment
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
