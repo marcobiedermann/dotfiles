@@ -25,6 +25,12 @@
 * [Sass](http://sass-lang.com/) `gem install sass`
 * [Bower](http://bower.io/) `npm install -g bower`
 
+### Linter
+* [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
+* [JSC](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
+* [JSHint](http://jshint.com/docs/) `npm install jshint -g`
+* [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
+
 ## Bookmarks
 * [CSS Specificity Graph Generator - by Jonas Ohlsson](http://jonassebastianohlsson.com/specificity-graph/)
 * [iconmonstr](http://iconmonstr.com/)
