@@ -13,6 +13,7 @@
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
+* [Robomongo](http://robomongo.org/)
 
 ### Environment
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
