@@ -9,7 +9,7 @@
 * [ImageOptim](https://imageoptim.com/)
 * [iTerm2](https://www.iterm2.com/)
 * [Mamp](http://www.mamp.info/de/)
-* [SVGO](https://github.com/svg/svgo)
+* [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
