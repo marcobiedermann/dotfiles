@@ -31,6 +31,10 @@
 * [JSHint](http://jshint.com/docs/) `npm install jshint -g`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
 
+## Photoshop
+### Extensions
+* [GuideGuide](http://guideguide.me/)
+
 ## Mac Finder
 * Copy text within Quick Look `defaults write com.apple.finder QLEnableTextSelection -bool TRUE; killall Finder`
 * Show hidden Files in Finder `defaults write com.apple.finder AppleShowAllFiles YES; killall Finder`
