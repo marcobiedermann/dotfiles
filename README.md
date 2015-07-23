@@ -17,23 +17,23 @@
 * [iTerm2](https://www.iterm2.com/)
 	* [Solarized Dark](http://iterm2colorschemes.com/)
 * [Mamp](http://www.mamp.info/de/)
+* [Robomongo](http://robomongo.org/)
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
-* [Robomongo](http://robomongo.org/)
 
 ### Environment
-* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
-* [git](http://git-scm.com/)
+* [Bower](http://bower.io/) `npm install -g bower`
 * [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-* [tree](http://brewformulas.org/Tree) `brew install tree`
 * [MongoDB](https://www.mongodb.org/) `brew install mongodb`
 * [Node.js](http://nodejs.org/)
-* [Ruby](https://www.ruby-lang.org/)
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
+* [Ruby](https://www.ruby-lang.org/)
 * [Sass](http://sass-lang.com/) `gem install sass`
-* [Bower](http://bower.io/) `npm install -g bower`
+* [git](http://git-scm.com/)
+* [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
+* [tree](http://brewformulas.org/Tree) `brew install tree`
 
 ### Linter
 * [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
@@ -47,5 +47,5 @@
 
 ## Mac Finder
 * Copy text within Quick Look `defaults write com.apple.finder QLEnableTextSelection -bool TRUE; killall Finder`
-* Show hidden Files in Finder `defaults write com.apple.finder AppleShowAllFiles YES; killall Finder`
 * Enable path-view `defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES; killall Finder`
+* Show hidden Files in Finder `defaults write com.apple.finder AppleShowAllFiles YES; killall Finder`
