@@ -19,6 +19,7 @@
 * [git](http://git-scm.com/)
 * [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * [tree](http://brewformulas.org/Tree) `brew install tree`
+* [MongoDB](https://www.mongodb.org/) `brew install mongodb`
 * [Node.js](http://nodejs.org/)
 * [Ruby](https://www.ruby-lang.org/)
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
