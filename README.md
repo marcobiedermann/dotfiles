@@ -8,6 +8,7 @@
 * [Google Chrome](http://www.google.com/chrome/)
 * [ImageOptim](https://imageoptim.com/)
 * [iTerm2](https://www.iterm2.com/)
+	* [Solarized Dark](http://iterm2colorschemes.com/)
 * [Mamp](http://www.mamp.info/de/)
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
