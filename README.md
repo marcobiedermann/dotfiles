@@ -31,6 +31,7 @@
 
 ### Environment
 * [Bower](http://bower.io/) `npm install -g bower`
+* [Grunt](http://gruntjs.com/) `npm install -g grunt-cli`
 * [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * [MongoDB](https://www.mongodb.org/) `brew install mongodb`
 * [Node.js](http://nodejs.org/)
