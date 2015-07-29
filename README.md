@@ -4,6 +4,7 @@
 * [1Password](https://agilebits.com/onepassword)
 * [Alfred App](http://www.alfredapp.com/)
 * [Dropbox](https://www.dropbox.com/)
+* [FileZilla](https://filezilla-project.org/)
 * [Google Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Google Chrome](http://www.google.com/chrome/)
 	* [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
@@ -16,12 +17,14 @@
 * [ImageOptim](https://imageoptim.com/)
 * [iTerm2](https://www.iterm2.com/)
 	* [Solarized Dark](http://iterm2colorschemes.com/)
+* [LibreOffice](https://de.libreoffice.org/)
 * [Mamp](http://www.mamp.info/de/)
 * [Robomongo](http://robomongo.org/)
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
+	* [Package Control](https://packagecontrol.io/installation)
 
 ### Environment
 * [Bower](http://bower.io/) `npm install -g bower`
@@ -34,6 +37,7 @@
 * [git](http://git-scm.com/)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
 * [tree](http://brewformulas.org/Tree) `brew install tree`
+* [z](https://github.com/rupa/z)
 
 ### Linter
 * [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
