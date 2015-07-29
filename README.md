@@ -21,7 +21,7 @@
 * [LibreOffice](https://de.libreoffice.org/)
 * [Mamp](http://www.mamp.info/de/)
 * Photoshop
-	* * [GuideGuide](http://guideguide.me/)
+	* [GuideGuide](http://guideguide.me/)
 * [Robomongo](http://robomongo.org/)
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
