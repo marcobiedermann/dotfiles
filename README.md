@@ -5,6 +5,7 @@
 * [Alfred App](http://www.alfredapp.com/)
 * [Dropbox](https://www.dropbox.com/)
 * [FileZilla](https://filezilla-project.org/)
+	* SiteManager `~/.config/filezilla/sitemanager.xml`
 * [Google Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Google Chrome](http://www.google.com/chrome/)
 	* [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
