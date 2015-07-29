@@ -20,6 +20,8 @@
 	* [Solarized Dark](http://iterm2colorschemes.com/)
 * [LibreOffice](https://de.libreoffice.org/)
 * [Mamp](http://www.mamp.info/de/)
+* Photoshop
+	* * [GuideGuide](http://guideguide.me/)
 * [Robomongo](http://robomongo.org/)
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
@@ -45,10 +47,6 @@
 * [JSC](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
 * [JSHint](http://jshint.com/docs/) `npm install jshint -g`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
-
-## Photoshop
-### Extensions
-* [GuideGuide](http://guideguide.me/)
 
 ## Mac Finder
 * Copy text within Quick Look `defaults write com.apple.finder QLEnableTextSelection -bool TRUE; killall Finder`
