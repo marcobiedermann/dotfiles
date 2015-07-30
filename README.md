@@ -46,7 +46,7 @@
 
 ### Linter
 * [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
-* [JSC](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
+* [JSCS](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
 * [JSHint](http://jshint.com/docs/) `npm install jshint -g`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
 
