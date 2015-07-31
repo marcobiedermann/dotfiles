@@ -52,5 +52,6 @@
 
 ## Mac Finder
 * Copy text within Quick Look `defaults write com.apple.finder QLEnableTextSelection -bool TRUE; killall Finder`
+* Disable screenshot shadow `defaults write com.apple.screencapture disable-shadow -bool TRUE; killall SystemUIServer`
 * Enable path-view `defaults write com.apple.finder _FXShowPosixPathInTitle -bool YES; killall Finder`
 * Show hidden Files in Finder `defaults write com.apple.finder AppleShowAllFiles YES; killall Finder`
