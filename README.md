@@ -27,6 +27,7 @@
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [SourceTree](http://www.sourcetreeapp.com/)
+* [Spectacle](http://spectacleapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
 	* [Package Control](https://packagecontrol.io/installation)
 
