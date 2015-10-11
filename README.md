@@ -47,6 +47,7 @@
 * [MongoDB](https://www.mongodb.org/) `brew install mongodb`
 * [trash](https://github.com/ali-rantakari/trash) `brew install trash`
 * [tree](http://brewformulas.org/Tree) `brew install tree`
+* [webp](https://developers.google.com/speed/webp/) `brew install webp`
 
 #### Node Modules
 * [Bower](http://bower.io/) `npm install -g bower`
