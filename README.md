@@ -43,6 +43,7 @@
 * [z](https://github.com/rupa/z)
 
 #### Homebrew
+* [ffmpeg](https://www.ffmpeg.org/) `brew install ffmpeg`
 * [MongoDB](https://www.mongodb.org/) `brew install mongodb`
 * [trash](https://github.com/ali-rantakari/trash) `brew install trash`
 * [tree](http://brewformulas.org/Tree) `brew install tree`
