@@ -61,6 +61,9 @@
 * [Sass](http://sass-lang.com/) `gem install sass`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
 
+## Mac Dock
+* Add Spacers `defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'; killall Dock`
+
 ## Mac Finder
 * Copy text within Quick Look `defaults write com.apple.finder QLEnableTextSelection -bool TRUE; killall Finder`
 * Disable screenshot shadow `defaults write com.apple.screencapture disable-shadow -bool TRUE; killall SystemUIServer`
