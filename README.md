@@ -32,24 +32,29 @@
 	* [Package Control](https://packagecontrol.io/installation)
 
 ### Environment
-* [Bower](http://bower.io/) `npm install -g bower`
-* [Grunt](http://gruntjs.com/) `npm install -g grunt-cli`
-* [Gulp](http://gulpjs.com/) `npm install -g gulp`
+#### OS
 * [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-* [MongoDB](https://www.mongodb.org/) `brew install mongodb`
 * [Node.js](http://nodejs.org/)
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 * [Ruby](https://www.ruby-lang.org/)
-* [Sass](http://sass-lang.com/) `gem install sass`
 * [git](http://git-scm.com/)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
-* [tree](http://brewformulas.org/Tree) `brew install tree`
 * [z](https://github.com/rupa/z)
 
-### Linter
+#### Homebrew
+* [MongoDB](https://www.mongodb.org/) `brew install mongodb`
+* [tree](http://brewformulas.org/Tree) `brew install tree`
+
+#### Node Modules
+* [Bower](http://bower.io/) `npm install -g bower`
 * [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
+* [Grunt](http://gruntjs.com/) `npm install -g grunt-cli`
+* [Gulp](http://gulpjs.com/) `npm install -g gulp`
 * [JSCS](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
 * [JSHint](http://jshint.com/docs/) `npm install jshint -g`
+
+#### Ruby Gems
+* [Sass](http://sass-lang.com/) `gem install sass`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
 
 ## Mac Finder
