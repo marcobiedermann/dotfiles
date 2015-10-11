@@ -30,6 +30,7 @@
 * [Spectacle](http://spectacleapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
 	* [Package Control](https://packagecontrol.io/installation)
+* [VLC Media Player](http://www.videolan.org/vlc/)
 
 ### Environment
 #### OS
