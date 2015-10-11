@@ -44,6 +44,7 @@
 
 #### Homebrew
 * [MongoDB](https://www.mongodb.org/) `brew install mongodb`
+* [trash](https://github.com/ali-rantakari/trash) `brew install trash`
 * [tree](http://brewformulas.org/Tree) `brew install tree`
 
 #### Node Modules
