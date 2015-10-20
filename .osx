@@ -100,8 +100,11 @@ defaults write com.apple.finder FXPreferredViewStyle -string "clmv"
 # Enable highlight hover effect for the grid view of a stack (Dock)
 defaults write com.apple.dock mouse-over-hilite-stack -bool true
 
-# Set the icon size of Dock items to 36 pixels
-defaults write com.apple.dock tilesize -int 36
+# Set the icon size of Dock items to 48 pixels
+defaults write com.apple.dock tilesize -int 48
+
+# Set the icon largesize of Dock items to 64 pixels
+defaults write com.apple.dock largesize -float 64
 
 # Change minimize/maximize window effect `genie`, `suck`, `scale`
 defaults write com.apple.dock mineffect -string "scale"
