@@ -54,19 +54,8 @@
 ### Environment
 #### OS
 * [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-* [Node.js](http://nodejs.org/)
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
-* [Ruby](https://www.ruby-lang.org/)
-* [git](http://git-scm.com/)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
-* [z](https://github.com/rupa/z)
-
-#### Homebrew
-* [ffmpeg](https://www.ffmpeg.org/) `brew install ffmpeg`
-* [MongoDB](https://www.mongodb.org/) `brew install mongodb`
-* [trash](https://github.com/ali-rantakari/trash) `brew install trash`
-* [tree](http://brewformulas.org/Tree) `brew install tree`
-* [webp](https://developers.google.com/speed/webp/) `brew install webp`
 
 #### Node Modules
 * [Bower](http://bower.io/) `npm install -g bower`
