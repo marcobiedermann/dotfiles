@@ -3,6 +3,9 @@
 # OSX-only stuff. Abort if not OSX.
 is_osx || return 1
 
+# Ask for the administrator password upfront.
+sudo -v
+
 # Exit if Homebrew is not installed.
 [[ ! "$(type -P brew)" ]] && e_error "Brew casks need Homebrew to install." && return 1
 
@@ -37,3 +40,5 @@ brew cask install qlstephen
 brew cask install quicklook-csv
 brew cask install quicklook-json
 brew cask install webpquicklook
+
+brew cask cleanup
