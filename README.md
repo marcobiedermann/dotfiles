@@ -66,6 +66,7 @@
 * [JSHint](http://jshint.com/docs/) `npm install jshint -g`
 
 #### Ruby Gems
+* [Jekyll](https://jekyllrb.com/) `gem install jekyll`
 * [Sass](http://sass-lang.com/) `gem install sass`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
 
