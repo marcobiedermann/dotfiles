@@ -18,6 +18,7 @@ brew cask install 1password
 brew cask install alfred
 brew cask install dropbox
 brew cask install filezilla
+brew cask install firefox
 brew cask install google-chrome
 brew cask install google-chrome-canary
 brew cask install imagealpha
