@@ -11,14 +11,17 @@ brew update
 # Upgrade any already-installed formulae.
 brew upgrade --all
 
+brew install ack
 brew install ffmpeg
 brew install git
 brew install imagemagick --with-webp
 brew install mongodb
 brew install node
+brew install rename
 brew install ruby
 brew install trash
 brew install tree
+brew install wget
 brew install z
 
 # Remove outdated versions from the cellar.
