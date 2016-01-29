@@ -7,3 +7,5 @@
   p = push
   s = status -s
   up = pull
+[credential]
+  helper = osxkeychain
