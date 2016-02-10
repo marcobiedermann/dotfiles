@@ -6,13 +6,10 @@
   "default_line_ending": "unix",
   "draw_white_space": "all",
   "ensure_newline_at_eof_on_save": true,
-  "file_exclude_patterns":
-  [
-    ".DS_Store",
-    "*.map"
+  "file_exclude_patterns": [
+    ".DS_Store"
   ],
-  "folder_exclude_patterns":
-  [
+  "folder_exclude_patterns": [
     ".git",
     ".sass-cache",
     ".svn",
@@ -20,8 +17,7 @@
   ],
   "font_size": 11,
   "highlight_modified_tabs": true,
-  "ignored_packages":
-  [
+  "ignored_packages": [
     "Vintage"
   ],
   "line_padding_bottom": 2,
@@ -29,8 +25,7 @@
   "match_brackets": true,
   "match_brackets_angle": true,
   "overlay_scroll_bars": "enabled",
-  "rulers":
-  [
+  "rulers": [
     80
   ],
   "show_encoding": true,
