@@ -17,8 +17,10 @@ brew install git
 brew install imagemagick --with-webp
 brew install mongodb
 brew install node
+brew install rbenv
 brew install rename
 brew install ruby
+brew install ruby-build
 brew install trash
 brew install tree
 brew install wget

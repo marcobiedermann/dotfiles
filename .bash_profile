@@ -9,4 +9,7 @@ for file in ~/.{path,aliases,functions,exports,extra}; do
 done;
 unset file;
 
+# Add rbenv to bash so that it loads every time you open a terminal
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+
 source ~/z.sh
