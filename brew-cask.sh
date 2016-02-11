@@ -29,6 +29,9 @@ brew cask install robomongo
 brew cask install sourcetree
 brew cask install spectacle
 brew cask install sublime-text3
+brew cask install vagrant
+brew cask install vagrant-manager
+brew cask install virtualbox
 brew cask install vlc
 
 # QuickLook Plugins
