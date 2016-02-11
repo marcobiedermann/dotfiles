@@ -2,6 +2,7 @@
 gem update
 
 # Install ruby gems
+gem install bundler
 gem install jekyll
 gem install sass
 gem install scss_lint
