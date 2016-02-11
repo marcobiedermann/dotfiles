@@ -17,6 +17,7 @@ brew install ffmpeg
 brew install git
 brew install imagemagick --with-webp
 brew install mongodb
+brew install mysql
 brew install node
 brew install rbenv
 brew install rename
