@@ -12,6 +12,7 @@ brew update
 brew upgrade --all
 
 brew install ack
+brew install curl
 brew install ffmpeg
 brew install git
 brew install imagemagick --with-webp
