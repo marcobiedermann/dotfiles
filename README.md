@@ -53,7 +53,6 @@
 
 ### Environment
 #### OS
-* [Homebrew](http://brew.sh/) `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
 
