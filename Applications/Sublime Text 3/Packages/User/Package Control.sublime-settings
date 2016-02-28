@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AutoFileName",
+		"BracketHighlighter",
+		"CSScomb",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"SCSS",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Sublimerge Pro"
+	]
+}
