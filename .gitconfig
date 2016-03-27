@@ -35,3 +35,7 @@
   added = yellow
   changed = green
   untracked = cyan
+
+[user]
+  name = Marco Biedermann
+  email = hello@marcobiedermann.com
