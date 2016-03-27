@@ -1,1 +1,4 @@
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
+
+# Sublime Text as default
+export EDITOR="subl"
