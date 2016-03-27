@@ -9,7 +9,7 @@ sudo -v
 brew update
 
 # Upgrade any already-installed formulae.
-brew upgrade --all
+brew upgrade
 
 brew install ack
 brew install curl
@@ -27,6 +27,7 @@ brew install trash
 brew install tree
 brew install wget
 brew install z
+brew install zsh
 
 # Remove outdated versions from the cellar.
 brew cleanup
