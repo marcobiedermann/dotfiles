@@ -18,7 +18,7 @@ brew install git
 brew install imagemagick --with-webp
 brew install mongodb
 brew install mysql
-brew install node
+brew install nvm
 brew install rbenv
 brew install rename
 brew install ruby
