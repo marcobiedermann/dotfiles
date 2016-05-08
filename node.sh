@@ -10,3 +10,5 @@ npm install -g grunt-cli
 npm install -g gulp
 npm install -g jscs
 npm install -g jshint
+npm install -g postcss
+npm install -g stylelint
