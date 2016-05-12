@@ -26,9 +26,11 @@ brew cask install imageoptim
 brew cask install iterm2
 brew cask install mamp
 brew cask install robomongo
+brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
 brew cask install sublime-text3
+brew cask install teamviewer
 brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install virtualbox
