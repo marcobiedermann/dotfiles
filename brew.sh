@@ -13,6 +13,7 @@ brew upgrade
 
 brew install ack
 brew install curl
+brew install diff-so-fancy
 brew install ffmpeg
 brew install git
 brew install imagemagick --with-webp
