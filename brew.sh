@@ -21,7 +21,6 @@ brew install mysql
 brew install nvm
 brew install rbenv
 brew install rename
-brew install ruby
 brew install ruby-build
 brew install trash
 brew install tree
