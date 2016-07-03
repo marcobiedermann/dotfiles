@@ -13,3 +13,6 @@ trim_trailing_whitespace = true
 [*.md]
 indent_style = tab
 trim_trailing_whitespace = false
+
+[*.sublime-snippet]
+indent_style = tab
