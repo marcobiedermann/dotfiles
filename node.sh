@@ -12,3 +12,4 @@ npm install -g jscs
 npm install -g jshint
 npm install -g postcss
 npm install -g stylelint
+npm install -g webpack
