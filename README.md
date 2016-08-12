@@ -23,6 +23,7 @@
   * [Solarized Dark](http://iterm2colorschemes.com/)
 * [LibreOffice](https://de.libreoffice.org/)
 * [Mamp](http://www.mamp.info/de/)
+* [Node.js](https://nodejs.org/)
 * Photoshop
   * [GuideGuide](http://guideguide.me/)
 * [Robomongo](http://robomongo.org/)
