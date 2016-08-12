@@ -41,6 +41,7 @@
   * [EditorConfig](https://packagecontrol.io/packages/EditorConfig)
   * [Emmet](https://packagecontrol.io/packages/Emmet)
   * [GitGutter](https://packagecontrol.io/packages/GitGutter)
+  * [LiveReload](https://packagecontrol.io/packages/LiveReload)
   * [Material Theme](https://packagecontrol.io/packages/Material%20Theme)
   * [SCSS](https://packagecontrol.io/packages/SCSS)
   * [SFTP](https://packagecontrol.io/packages/SFTP)
