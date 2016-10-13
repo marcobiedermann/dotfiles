@@ -28,8 +28,6 @@
 		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
 		"SublimeLinter-contrib-stylelint",
-		"SublimeLinter-csslint",
-		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"Sublimerge Pro"
