@@ -14,7 +14,7 @@ brew upgrade
 brew install ack
 brew install curl
 brew install diff-so-fancy
-brew install ffmpeg
+brew install ffmpeg --with-libvpx
 brew install git
 brew install imagemagick --with-webp
 brew install mongodb
