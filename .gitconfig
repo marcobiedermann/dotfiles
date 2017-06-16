@@ -7,6 +7,7 @@
   p = push
   s = status -s
   up = pull
+  push origin master = push --set-upstream origin master
 
 [core]
   attributesfile = ~/.gitattributes
