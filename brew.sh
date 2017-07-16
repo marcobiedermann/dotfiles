@@ -11,11 +11,17 @@ brew update
 # Upgrade any already-installed formulae.
 brew upgrade
 
+brew tap shopify/shopify
+
 brew install ack
+brew install docker
+brew install docker-compose
+brew install docker-machine
 brew install curl
 brew install diff-so-fancy
 brew install ffmpeg --with-libvpx
 brew install git
+brew install heroku
 brew install imagemagick --with-webp
 brew install mongodb
 brew install mysql
@@ -23,6 +29,7 @@ brew install nvm
 brew install rbenv
 brew install rename
 brew install ruby-build
+brew install themekit
 brew install trash
 brew install tree
 brew install wget
