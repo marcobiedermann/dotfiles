@@ -5,9 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
 		"AutoFileName",
 		"Autoprefixer",
+		"Babel",
 		"BracketHighlighter",
 		"Color Highlighter",
 		"CSScomb",
@@ -17,6 +19,7 @@
 		"Git",
 		"GitGutter",
 		"LESS",
+		"Liquid",
 		"LiveReload",
 		"Markdown Preview",
 		"Material Theme",
@@ -31,6 +34,11 @@
 		"SublimeLinter-contrib-stylelint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"Sublimerge Pro"
+		"Sublimerge Pro",
+		"TernJS",
+		"TodoReview",
+		"TYPO3 Fluid Snippets",
+		"TypoScript",
+		"WordPress"
 	]
 }
