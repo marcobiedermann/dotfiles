@@ -63,3 +63,6 @@ alias mergepdf='/System/Library/Automator/Combine\ PDF\ Pages.action/Contents/Re
 
 # replace rm with trash command
 alias rm="trash"
+
+# highlight matching instance and use extended RegEx
+alias grep="grep --color -E"
