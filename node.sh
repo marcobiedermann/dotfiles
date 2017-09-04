@@ -3,7 +3,6 @@ sudo -v
 
 # Install gobal Node Modules
 npm install -g bower
-npm install -g csslint
 npm install -g eslint
 npm install -g greenkeeper
 npm install -g jscs

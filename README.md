@@ -69,7 +69,6 @@
 
 #### Node Modules
 * [Bower](http://bower.io/) `npm install -g bower`
-* [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
 * [ESLint](http://eslint.org/) `npm install -g eslint`
 * [Greenkeeper](https://greenkeeper.io/) `npm install -g greenkeeper`
 * [JSCS](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
