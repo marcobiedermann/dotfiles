@@ -8,4 +8,3 @@ npm install -g greenkeeper
 npm install -g jscs
 npm install -g postcss
 npm install -g stylelint
-npm install -g webpack
