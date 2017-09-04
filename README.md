@@ -72,7 +72,6 @@
 * [CSSLint](https://github.com/CSSLint/csslint) `npm install -g csslint`
 * [ESLint](http://eslint.org/) `npm install -g eslint`
 * [Greenkeeper](https://greenkeeper.io/) `npm install -g greenkeeper`
-* [Gulp](http://gulpjs.com/) `npm install -g gulp`
 * [JSCS](https://github.com/jscs-dev/node-jscs) `npm install jscs -g`
 * [JSHint](http://jshint.com/docs/) `npm install jshint -g`
 

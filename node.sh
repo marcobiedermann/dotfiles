@@ -6,7 +6,6 @@ npm install -g bower
 npm install -g csslint
 npm install -g eslint
 npm install -g greenkeeper
-npm install -g gulp
 npm install -g jscs
 npm install -g jshint
 npm install -g postcss
