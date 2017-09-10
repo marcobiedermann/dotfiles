@@ -54,7 +54,6 @@
   * [SublimeCodeIntel](https://packagecontrol.io/packages/SublimeCodeIntel)
   * [SublimeLinter](https://packagecontrol.io/packages/SublimeLinter)
   * [SublimeLinter-contrib-scss-lint](https://packagecontrol.io/packages/SublimeLinter-contrib-scss-lint)
-  * [SublimeLinter-csslint](https://packagecontrol.io/packages/SublimeLinter-csslint)
   * [SublimeLinter-jshint](https://packagecontrol.io/packages/SublimeLinter-jshint)
   * [SublimeLinter-json](https://packagecontrol.io/packages/SublimeLinter-json)
   * [SublimeLinter-php](https://packagecontrol.io/packages/SublimeLinter-php)
