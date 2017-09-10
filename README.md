@@ -32,6 +32,7 @@
 * [Robomongo](http://robomongo.org/)
 * [SVGO GUI](https://github.com/svg/svgo-gui)
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
+* [Sketch](https://www.sketchapp.com/)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Spectacle](http://spectacleapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
