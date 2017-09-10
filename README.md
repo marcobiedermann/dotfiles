@@ -34,6 +34,7 @@
 * [Sip](https://itunes.apple.com/us/app/sip/id507257563)
 * [Sketch](https://www.sketchapp.com/)
   * [Craft](https://www.invisionapp.com/craft)
+  * [ImageOptim](https://imageoptim.com/sketch)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Spectacle](http://spectacleapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
