@@ -35,6 +35,7 @@
 * [Sketch](https://www.sketchapp.com/)
   * [Craft](https://www.invisionapp.com/craft)
   * [ImageOptim](https://imageoptim.com/sketch)
+  * [Sketch Measure](http://utom.design/measure/)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Spectacle](http://spectacleapp.com/)
 * [Sublime Text](http://www.sublimetext.com/)
