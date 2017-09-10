@@ -34,6 +34,7 @@
 * [Sketch](https://www.sketchapp.com/)
   * [Craft](https://www.invisionapp.com/craft)
   * [ImageOptim](https://imageoptim.com/sketch)
+  * [Launchpad](https://animaapp.github.io/Auto-Layout/)
   * [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator)
   * [Sketch Measure](http://utom.design/measure/)
 * [SourceTree](http://www.sourcetreeapp.com/)
