@@ -1,6 +1,7 @@
 {
   "editor.fontFamily": "Operator Mono, 'Courier New', monospace",
   "editor.fontSize": 13,
+  "editor.renderWhitespace": "all",
   "editor.tabSize": 2,
   "files.exclude": {
     "**/.git": true,
