@@ -28,7 +28,8 @@ Thumb.db
 Thumbs.db
 nbproject
 
-# Folders to ignore
+# Folders and files to ignore
+.env
 .sass-cache
 _site
 bower_components
