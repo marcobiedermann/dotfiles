@@ -28,7 +28,7 @@ brew cask install robo-3t
 brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
-brew cask install sublime-text3
+brew cask install sublime-text
 brew cask install teamviewer
 brew cask install vagrant
 brew cask install vagrant-manager
