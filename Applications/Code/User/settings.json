@@ -1,7 +1,14 @@
 {
   "editor.fontFamily": "Operator Mono, 'Courier New', monospace",
   "editor.fontSize": 13,
+  "editor.renderWhitespace": "all",
+  "editor.rulers": [
+    80,
+    100,
+    120
+  ],
   "editor.tabSize": 2,
+  "eslint.autoFixOnSave": true,
   "files.exclude": {
     "**/.git": true,
     "**/.svn": true,
@@ -10,5 +17,8 @@
     "**/.DS_Store": true,
     "bower_components": true,
     "node_modules": true
-  }
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "newFile.showPathRelativeTo": "project",
+  "newFile.defaultFileExtension": ""
 }
