@@ -1,2 +1,4 @@
+#!/usr/bin/env bash
+
 # Sublime Text as default
 export EDITOR="subl"
