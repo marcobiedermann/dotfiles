@@ -29,7 +29,6 @@ brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
 brew cask install sublime-text
-brew cask install teamviewer
 brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install virtualbox
