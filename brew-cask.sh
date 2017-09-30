@@ -24,7 +24,7 @@ brew cask install google-chrome-canary
 brew cask install imageoptim
 brew cask install iterm2
 brew cask install mamp
-brew cask install robomongo
+brew cask install robo-3t
 brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
