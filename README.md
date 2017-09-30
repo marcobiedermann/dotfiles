@@ -19,7 +19,6 @@
   * [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
   * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
   * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
-* [ImageAlpha](https://pngmini.com/)
 * [ImageOptim](https://imageoptim.com/)
 * [iTerm2](https://www.iterm2.com/)
   * [Solarized Dark](http://iterm2colorschemes.com/)
