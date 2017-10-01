@@ -5,6 +5,7 @@
 * [Alfred App](http://www.alfredapp.com/)
 * [Dash](https://kapeli.com/dash)
 * [Dropbox](https://www.dropbox.com/)
+* [Duet](https://www.duetdisplay.com/)
 * [FileZilla](https://filezilla-project.org/)
   * SiteManager `~/.config/filezilla/sitemanager.xml`
 * [Firefox](https://www.mozilla.org/firefox/)
