@@ -38,6 +38,7 @@
   * [Sketch Measure](http://utom.design/measure/)
 * [SourceTree](http://www.sourcetreeapp.com/)
 * [Spectacle](http://spectacleapp.com/)
+* [Spotify](https://www.spotify.com/)
 * [Sublime Text](http://www.sublimetext.com/)
   * [AdvanceNewFile](https://packagecontrol.io/packages/AdvancedNewFile)
   * [AutoFileName](https://packagecontrol.io/packages/AutoFileName)
