@@ -34,6 +34,7 @@ brew cask install sublime-text
 brew cask install vagrant
 brew cask install vagrant-manager
 brew cask install virtualbox
+brew cask install visual-studio-code
 brew cask install vlc
 
 # QuickLook Plugins

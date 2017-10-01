@@ -64,6 +64,7 @@
 * [Vagrant Manager](http://vagrantmanager.com/)
 * [VirtualBox](https://www.virtualbox.org/)
 * [VLC Media Player](http://www.videolan.org/vlc/)
+* [Visual Studio Code](https://code.visualstudio.com/)
 * [Wox](http://www.getwox.com/)
 
 ### Environment
