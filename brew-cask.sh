@@ -16,6 +16,7 @@ brew tap caskroom/versions
 # Applications
 brew cask install 1password
 brew cask install alfred
+brew cask install dash
 brew cask install dropbox
 brew cask install filezilla
 brew cask install firefox
