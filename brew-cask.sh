@@ -25,6 +25,7 @@ brew cask install imageoptim
 brew cask install iterm2
 brew cask install mamp
 brew cask install robo-3t
+brew cask install sip
 brew cask install sketch
 brew cask install sourcetree
 brew cask install spectacle
