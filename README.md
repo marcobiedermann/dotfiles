@@ -7,6 +7,7 @@
 * [FileZilla](https://filezilla-project.org/)
   * SiteManager `~/.config/filezilla/sitemanager.xml`
 * [Firefox](https://www.mozilla.org/firefox/)
+* [Franz](http://meetfranz.com/)
 * [Google Chrome Canary](https://www.google.de/chrome/browser/canary.html)
 * [Google Chrome](http://www.google.com/chrome/)
   * [Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb)
