@@ -18,3 +18,4 @@ source $(brew --prefix nvm)/nvm.sh
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 
 source ~/z.sh
+source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh

@@ -35,6 +35,7 @@ brew install tree
 brew install wget
 brew install z
 brew install zsh
+brew install zsh-autosuggestions
 
 # Remove outdated versions from the cellar.
 brew cleanup
