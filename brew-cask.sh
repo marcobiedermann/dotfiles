@@ -26,7 +26,6 @@ brew cask install iterm2
 brew cask install mamp
 brew cask install robo-3t
 brew cask install sketch
-brew cask install skype
 brew cask install sourcetree
 brew cask install spectacle
 brew cask install sublime-text
