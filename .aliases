@@ -16,8 +16,10 @@ alias cp='cp -v'
 # Shortcuts
 alias g="git"
 
+alias ll="ls"
+
 # List all files colorized in long format
-alias ls="ls -lF ${colorflag}"
+alias ls="ls -lFG ${colorflag}"
 
 # List all files colorized in long format, including dot files
 alias la="ls -laF ${colorflag}"
