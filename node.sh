@@ -5,7 +5,6 @@ sudo -v
 npm install -g bower
 npm install -g eslint
 npm install -g greenkeeper
-npm install -g jscs
 npm install -g postcss
 npm install -g stylelint
 (
