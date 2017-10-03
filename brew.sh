@@ -32,6 +32,7 @@ brew install ruby-build
 brew install themekit
 brew install trash
 brew install tree
+brew install watch
 brew install wget
 brew install z
 brew install zsh
