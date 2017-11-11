@@ -3,6 +3,7 @@
 ## Tools
 
 ### Applications
+
 * [1Password](https://agilebits.com/onepassword)
 * [Alfred App](http://www.alfredapp.com/)
 * [Dash](https://kapeli.com/dash)
@@ -76,19 +77,24 @@
 * [Wox](http://www.getwox.com/)
 
 ### Environment
+
 #### OS
+
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 
 #### Node Modules
+
 * [Bower](http://bower.io/) `npm install -g bower`
 * [ESLint](http://eslint.org/) `npm install -g eslint`
 * [Greenkeeper](https://greenkeeper.io/) `npm install -g greenkeeper`
 
 #### Ruby Gems
+
 * [Jekyll](https://jekyllrb.com/) `gem install jekyll`
 * [Sass](http://sass-lang.com/) `gem install sass`
 * [Scss-Lint](https://github.com/brigade/scss-lint) `gem install scss_lint`
 
 ## Mac Dock
+
 * Add Spacers `defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'; killall Dock`
