@@ -25,13 +25,16 @@ brew install heroku
 brew install imagemagick --with-webp
 brew install mongodb
 brew install mysql
+brew install nano
 brew install nvm
+brew install openssl
 brew install rbenv
 brew install rename
 brew install ruby-build
 brew install themekit
 brew install trash
 brew install tree
+brew install vim --with-override-system-vi
 brew install watch
 brew install wget
 brew install z
