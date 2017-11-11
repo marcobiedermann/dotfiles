@@ -14,11 +14,11 @@ brew upgrade
 brew tap shopify/shopify
 
 brew install ack
+brew install curl
+brew install diff-so-fancy
 brew install docker
 brew install docker-compose
 brew install docker-machine
-brew install curl
-brew install diff-so-fancy
 brew install ffmpeg --with-libvpx
 brew install git
 brew install heroku
