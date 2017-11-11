@@ -44,3 +44,9 @@
 
 [commit]
   gpgsign = true
+
+[user]
+  name = Marco Biedermann
+  email = marco.biedermann@gmx.de
+  signingkey = 2C3F6E1E
+
