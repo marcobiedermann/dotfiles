@@ -21,6 +21,7 @@ brew install docker-compose
 brew install docker-machine
 brew install ffmpeg --with-libvpx
 brew install git
+brew install git-flow
 brew install heroku
 brew install imagemagick --with-webp
 brew install mongodb
