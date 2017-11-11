@@ -37,6 +37,7 @@ brew install tree
 brew install vim --with-override-system-vi
 brew install watch
 brew install wget
+brew install youtube-dl
 brew install z
 brew install zsh
 brew install zsh-autosuggestions
