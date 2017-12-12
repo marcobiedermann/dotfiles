@@ -1,3 +1,4 @@
+source ~/.profile
 #!/usr/bin/env bash
 
 # Add `~/bin` to the `$PATH`
@@ -14,7 +15,6 @@ unset file;
 # NVM
 # source $(brew --prefix nvm)/nvm.sh
 export NVM_DIR=~/.nvm
-. $(brew --prefix nvm)/nvm.sh
 
 # Add rbenv to bash so that it loads every time you open a terminal
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
@@ -22,3 +22,4 @@ if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 source ~/z.sh
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/local/share/zsh-syntax-highlighting/highlighters
+export PATH=/usr/local/bin:/usr/local/sbin:$PATH
