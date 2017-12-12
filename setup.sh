@@ -10,6 +10,8 @@ mkdir ~/Downloads/Resources/Fonts
 mkdir ~/Downloads/Resources/Icons
 mkdir ~/Downloads/Resources/Images
 
+mkdir -p /data/db
+
 # XCode Command Line Tools
 # thx https://github.com/alrra/dotfiles/blob/ff123ca9b9b/os/os_x/installs/install_xcode.sh
 
