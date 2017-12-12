@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 
-mkdir ~/Documents/Projects
-mkdir ~/Documents/Projects/forks
+mkdir -p ~/Documents/Projects
+mkdir -p ~/Documents/Projects/Forks
+mkdir -p ~/Documents/Projects/Open\ Source
 
-mkdir ~/Downloads/Install
+mkdir -p ~/Downloads/Install
 
-mkdir ~/Downloads/Resources
-mkdir ~/Downloads/Resources/Fonts
-mkdir ~/Downloads/Resources/Icons
-mkdir ~/Downloads/Resources/Images
+mkdir -p ~/Downloads/Resources/Fonts
+mkdir -p ~/Downloads/Resources/Icons
+mkdir -p ~/Downloads/Resources/Images
 
 mkdir -p /data/db
 
