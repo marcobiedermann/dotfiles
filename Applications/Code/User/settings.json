@@ -18,7 +18,20 @@
     "**/node_modules": true,
     "**/.cache": true
   },
-  "newFile.showPathRelativeTo": "project",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
   "newFile.defaultFileExtension": "",
+  "newFile.showPathRelativeTo": "project",
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile"
 }
