@@ -13,8 +13,8 @@ done;
 unset file;
 
 # NVM
-# source $(brew --prefix nvm)/nvm.sh
 export NVM_DIR=~/.nvm
+source $(brew --prefix nvm)/nvm.sh
 
 # Add rbenv to bash so that it loads every time you open a terminal
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
