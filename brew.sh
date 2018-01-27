@@ -11,6 +11,7 @@ brew update
 # Upgrade any already-installed formulae.
 brew upgrade
 
+brew tap homebrew/php
 brew tap shopify/shopify
 
 brew install ack
