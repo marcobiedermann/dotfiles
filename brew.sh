@@ -14,6 +14,7 @@ brew upgrade
 brew tap shopify/shopify
 
 brew install ack
+brew install composer
 brew install curl
 brew install diff-so-fancy
 brew install docker
