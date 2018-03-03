@@ -89,12 +89,14 @@
 
 * [Facebook](https://itunes.apple.com/app/facebook/id284882215)
 * [Google Drive](https://itunes.apple.com/app/google-drive/id507874739)
+* [Google Keep](https://itunes.apple.com/app/google-keep/id1029207872)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
 
 #### Android
 
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
 * [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
+* [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 ### Environment
