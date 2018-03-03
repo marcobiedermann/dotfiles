@@ -94,6 +94,7 @@
 * [Google Translate](https://itunes.apple.com/app/google-translate/id414706506)
 * [LastPass](https://itunes.apple.com/app/lastpass-password-manager/id324613447)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
+* [Shazam](https://itunes.apple.com/app/shazam/id284993459)
 
 #### Android
 
@@ -104,6 +105,7 @@
 * [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 * [LastPass](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
 * [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
+* [Shazam](https://play.google.com/store/apps/details?id=com.shazam.android)
 
 ### Environment
 
