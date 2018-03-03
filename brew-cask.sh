@@ -34,8 +34,6 @@ brew cask install sourcetree
 brew cask install spectacle
 brew cask install spotify
 brew cask install sublime-text
-brew cask install vagrant
-brew cask install vagrant-manager
 brew cask install virtualbox
 brew cask install visual-studio-code
 brew cask install vlc
