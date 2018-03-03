@@ -32,7 +32,6 @@
 * [ImageOptim](https://imageoptim.com/)
 * [iTerm2](https://www.iterm2.com/)
   * [Solarized Dark](http://iterm2colorschemes.com/)
-* [LibreOffice](https://de.libreoffice.org/)
 * [Mamp](http://www.mamp.info/de/)
 * [MongoDB Compass](https://www.mongodb.com/products/compass)
 * [Node.js](https://nodejs.org/)
