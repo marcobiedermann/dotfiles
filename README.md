@@ -88,10 +88,12 @@
 #### iOS
 
 * [Facebook](https://itunes.apple.com/app/facebook/id284882215)
+* [Messenger](https://itunes.apple.com/app/messenger/id454638411)
 
 #### Android
 
 * [Facebook](https://play.google.com/store/apps/details?id=com.facebook.katana)
+* [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 ### Environment
 
