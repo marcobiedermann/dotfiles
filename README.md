@@ -4,7 +4,6 @@
 
 * [1Password](https://agilebits.com/onepassword)
 * [Alfred App](http://www.alfredapp.com/)
-* [Dash](https://kapeli.com/dash)
 * [Dropbox](https://www.dropbox.com/)
 * [Duet](https://www.duetdisplay.com/)
 * [FileZilla](https://filezilla-project.org/)
