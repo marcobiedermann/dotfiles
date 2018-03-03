@@ -1,8 +1,6 @@
 # Dotfiles
 
-## Tools
-
-### Applications
+## Desktop
 
 * [1Password](https://agilebits.com/onepassword)
 * [Alfred App](http://www.alfredapp.com/)
