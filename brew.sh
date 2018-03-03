@@ -39,6 +39,7 @@ brew install trash
 brew install tree
 brew install vim --with-override-system-vi
 brew install watch
+brew install watchman
 brew install wget
 brew install youtube-dl
 brew install z
