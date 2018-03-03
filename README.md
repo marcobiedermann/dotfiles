@@ -91,6 +91,7 @@
 * [Google Drive](https://itunes.apple.com/app/google-drive/id507874739)
 * [Google Keep](https://itunes.apple.com/app/google-keep/id1029207872)
 * [Google Maps](https://itunes.apple.com/app/google-maps-gps-navigation/id585027354)
+* [Google Translate](https://itunes.apple.com/app/google-translate/id414706506)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
 
 #### Android
@@ -99,6 +100,7 @@
 * [Google Drive](https://play.google.com/store/apps/details?id=com.google.android.apps.docs)
 * [Google Keep](https://play.google.com/store/apps/details?id=com.google.android.keep)
 * [Google Maps](https://play.google.com/store/apps/details?id=com.google.android.apps.maps)
+* [Google Translate](https://play.google.com/store/apps/details?id=com.google.android.apps.translate)
 * [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 
 ### Environment
