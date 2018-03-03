@@ -1,9 +1,10 @@
 # Dotfiles
 
-## Desktop
+## Applications
+
+### Desktop
 
 * [1Password](https://agilebits.com/onepassword)
-* [Alfred App](http://www.alfredapp.com/)
 * [Dropbox](https://www.dropbox.com/)
 * [Duet](https://www.duetdisplay.com/)
 * [FileZilla](https://filezilla-project.org/)
@@ -29,25 +30,11 @@
   * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk)
   * [Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm)
   * [Web Maker](https://chrome.google.com/webstore/detail/web-maker/lkfkkhfhhdkiemehlpkgjeojomhpccnh)
-* [ImageOptim](https://imageoptim.com/)
-* [iTerm2](https://www.iterm2.com/)
-  * [Solarized Dark](http://iterm2colorschemes.com/)
-* [Mamp](http://www.mamp.info/de/)
 * [MongoDB Compass](https://www.mongodb.com/products/compass)
 * [Node.js](https://nodejs.org/)
 * Photoshop
   * [GuideGuide](http://guideguide.me/)
-* [Principle](http://principleformac.com/)
-* [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
-* [Sip](https://itunes.apple.com/us/app/sip/id507257563)
-* [Sketch](https://www.sketchapp.com/)
-  * [Craft](https://www.invisionapp.com/craft)
-  * [ImageOptim](https://imageoptim.com/sketch)
-  * [Launchpad](https://animaapp.github.io/Auto-Layout/)
-  * [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator)
-  * [Sketch Measure](http://utom.design/measure/)
 * [SourceTree](http://www.sourcetreeapp.com/)
-* [Spectacle](http://spectacleapp.com/)
 * [Spotify](https://www.spotify.com/)
 * [Sublime Text](http://www.sublimetext.com/)
   * [AdvanceNewFile](https://packagecontrol.io/packages/AdvancedNewFile)
@@ -75,7 +62,34 @@
 * [VirtualBox](https://www.virtualbox.org/)
 * [VLC Media Player](http://www.videolan.org/vlc/)
 * [Visual Studio Code](https://code.visualstudio.com/)
+
+#### macOS
+
+* [Alfred App](http://www.alfredapp.com/)
+* [ImageOptim](https://imageoptim.com/)
+* [iTerm2](https://www.iterm2.com/)
+  * [Solarized Dark](http://iterm2colorschemes.com/)
+* [Mamp](http://www.mamp.info/de/)
+* [Principle](http://principleformac.com/)
+* [Sip](https://itunes.apple.com/us/app/sip/id507257563)
+* [Sketch](https://www.sketchapp.com/)
+  * [Craft](https://www.invisionapp.com/craft)
+  * [ImageOptim](https://imageoptim.com/sketch)
+  * [Launchpad](https://animaapp.github.io/Auto-Layout/)
+  * [Sketch Map Generator](https://github.com/eddiesigner/sketch-map-generator)
+  * [Sketch Measure](http://utom.design/measure/)
+* [Spectacle](http://spectacleapp.com/)
+
+#### Windows
+
+* [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)
 * [Wox](http://www.getwox.com/)
+
+### Mobile
+
+#### iOS
+
+#### Android
 
 ### Environment
 
