@@ -95,6 +95,7 @@
 * [LastPass](https://itunes.apple.com/app/lastpass-password-manager/id324613447)
 * [Messenger](https://itunes.apple.com/app/messenger/id454638411)
 * [Shazam](https://itunes.apple.com/app/shazam/id284993459)
+* [Spotify](https://itunes.apple.com/app/spotify-music/id324684580)
 
 #### Android
 
@@ -106,6 +107,7 @@
 * [LastPass](https://play.google.com/store/apps/details?id=com.lastpass.lpandroid)
 * [Messenger](https://play.google.com/store/apps/details?id=com.facebook.orca)
 * [Shazam](https://play.google.com/store/apps/details?id=com.shazam.android)
+* [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music)
 
 ### Environment
 
