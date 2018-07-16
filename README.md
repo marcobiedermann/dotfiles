@@ -122,12 +122,6 @@
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) `curl -L http://install.ohmyz.sh | sh`
 * [Quick Look Plugins](https://github.com/sindresorhus/quick-look-plugins)
 
-#### Node Modules
-
-* [Bower](http://bower.io/) `npm install -g bower`
-* [ESLint](http://eslint.org/) `npm install -g eslint`
-* [Greenkeeper](https://greenkeeper.io/) `npm install -g greenkeeper`
-
 #### Ruby Gems
 
 * [Jekyll](https://jekyllrb.com/) `gem install jekyll`
