@@ -1,0 +1,4 @@
+--ignore-directory=is:bower_components
+--ignore-directory=is:node_modules
+--type-set=markdown:ext:md,markdown
+--type-set=sass:ext:scss,sass
