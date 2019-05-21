@@ -131,3 +131,13 @@
 ## Mac Dock
 
 * Add Spacers `defaults write com.apple.dock persistent-apps -array-add '{tile-data={}; tile-type="spacer-tile";}'; killall Dock`
+
+## Wallpaper
+
+### Desktop
+
+[![](https://images.unsplash.com/photo-1487700160041-babef9c3cb55)](https://unsplash.com/photos/x2Tmfd1-SgA)
+
+### Mobile
+
+[![](https://miniwallist.com/wp-content/uploads/2015/11/light-ends-mobile-wallpaper-minimalist-preview.jpg)](https://miniwallist.com/light-ends-mobile-wallpaper/)
