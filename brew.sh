@@ -25,6 +25,7 @@ brew install ffmpeg --with-libvpx
 brew install git
 brew install git-flow
 brew install heroku
+brew install hub
 brew install imagemagick --with-webp
 brew install mongodb
 brew install mysql
