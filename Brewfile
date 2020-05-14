@@ -9,6 +9,7 @@ brew "git"
 brew "gnugp"
 brew "imagemagick", args: ["with-libheif", "with-webp"]
 brew "ffmpeg", args: ["with-libvpx"]
+brew "ncdu"
 brew "node"
 brew "pgcli"
 brew "python"
