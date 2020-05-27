@@ -6,6 +6,7 @@ brew "curl"
 brew "diff-so-fancy"
 brew "fzf"
 brew "git"
+brew "github/gh/gh"
 brew "gnugp"
 brew "imagemagick", args: ["with-libheif", "with-webp"]
 brew "ffmpeg", args: ["with-libvpx"]
