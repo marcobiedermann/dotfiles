@@ -48,9 +48,12 @@
 
 [commit]
   gpgsign = true
-  
+
 [fetch]
   prune = true
+
+[help]
+  autocorrect = 1
 
 [user]
   name = Marco Biedermann
