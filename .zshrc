@@ -86,6 +86,9 @@ source $ZSH/oh-my-zsh.sh
 # Load default dotfiles
 source ~/.bash_profile
 
+# bat
+alias cat="bat"
+
 # NVM
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
