@@ -10,7 +10,7 @@ brew "gnugp"
 brew "imagemagick", args: ["with-libheif", "with-webp"]
 brew "ffmpeg", args: ["with-libvpx"]
 brew "ncdu"
-brew "node"
+brew "nvm"
 brew "pgcli"
 brew "python"
 brew "the_silver_searcher"
