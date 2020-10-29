@@ -89,6 +89,9 @@ source ~/.bash_profile
 # bat
 alias cat="bat"
 
+# fzf
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
 # NVM
 export NVM_DIR=~/.nvm
 source $(brew --prefix nvm)/nvm.sh
