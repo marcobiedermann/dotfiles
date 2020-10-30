@@ -86,8 +86,12 @@ source $ZSH/oh-my-zsh.sh
 # Load default dotfiles
 source ~/.bash_profile
 
-# bat
+# Aliases
 alias cat="bat"
+alias cp="cp -irv"
+alias mkdir="mkdir -pv"
+alias mv="mv -iv"
+alias rm="trash -v"
 
 # fzf
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
@@ -117,6 +121,3 @@ load-nvmrc() {
 }
 add-zsh-hook chpwd load-nvmrc
 load-nvmrc
-
-# trash
-alias rm="trash"
