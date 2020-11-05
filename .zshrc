@@ -121,3 +121,6 @@ load-nvmrc() {
 }
 add-zsh-hook chpwd load-nvmrc
 load-nvmrc
+
+# z
+source $(brew --prefix)/etc/profile.d/z.sh
