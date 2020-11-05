@@ -125,5 +125,8 @@ load-nvmrc
 # zsh-autosuggestions
 source /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 
+# zsh-syntax-highlighting
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
 # z
 source $(brew --prefix)/etc/profile.d/z.sh
