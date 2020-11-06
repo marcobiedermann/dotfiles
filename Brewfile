@@ -24,7 +24,7 @@ brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "zsh"
 
-cask "alfred3"
+cask "alfred"
 cask "docker"
 cask "font-fira-code"
 cask "google-chrome"
