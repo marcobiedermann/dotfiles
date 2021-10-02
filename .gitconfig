@@ -35,6 +35,9 @@
 [includeIf "gitdir:~/Documents/work/"]
 	path = ~/Documents/work/.gitconfig
 
+[init]
+	defaultBranch = main
+
 [interactive]
 	diffFilter = diff-so-fancy --patch
 
