@@ -1,5 +1,0 @@
---ignore-directory=is:bower_components
---ignore-directory=is:node_modules
-
---type-set=markdown:ext:md,mdx,markdown
---type-set=js:ext:js,jsx,mjs,ts,tsx

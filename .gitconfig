@@ -41,5 +41,10 @@
 [interactive]
 	diffFilter = diff-so-fancy --patch
 
+[push]
+	autoSetupRemote = true
+	default = current
+
 [user]
+	email = "5244986+marcobiedermann@users.noreply.github.com"
 	name = "Marco Biedermann"

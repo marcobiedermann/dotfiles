@@ -25,6 +25,7 @@ Finder -> Advanced -> Remove items from the Trash after 30 days (enable)
 ```
 
 # remove last login message
+
 touch ~/.hushlogin
 
 defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
@@ -32,14 +33,19 @@ defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 # Finder
 
 # Finder: show hidden files by default
+
 defaults write com.apple.finder AppleShowAllFiles -bool true
 
 # Disable the warning when changing a file extension
+
 defaults write com.apple.finder FXEnableExtensionChangeWarning -bool false
 
 # Use list view in all Finder windows by default
+
 # Four-letter codes for the other view modes: `icnv`, `Nlsv`, `clmv`, `Flwv`
+
 defaults write com.apple.finder FXPreferredViewStyle -string "clmv"
 
 # QuickLook: copy text
+
 defaults write com.apple.finder QLEnableTextSelection -bool true

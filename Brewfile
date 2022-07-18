@@ -1,10 +1,7 @@
-# https://github.com/Homebrew/homebrew-cask-fonts
-tap "homebrew/cask-fonts"
-
+# https://github.com/Homebrew/homebrew-core
 brew "bat"
 brew "curl"
 brew "diff-so-fancy"
-brew "exa"
 brew "fd"
 brew "ffmpeg"
 brew "fzf"
@@ -16,22 +13,27 @@ brew "jq"
 brew "nvm"
 brew "pgcli"
 brew "starship"
+brew "tldr"
 brew "trash"
 brew "tree"
-brew "wget"
 brew "youtube-dl"
 brew "z"
 brew "zsh-autosuggestions"
 brew "zsh-syntax-highlighting"
 brew "zsh"
 
+# https://github.com/Homebrew/homebrew-cask
 cask "alfred"
 cask "docker"
-cask "font-fira-code"
 cask "google-chrome"
 cask "imageoptim"
 cask "iterm2"
+cask "kap"
 cask "postman"
 cask "rectangle"
 cask "spotify"
 cask "visual-studio-code"
+
+# https://github.com/Homebrew/homebrew-cask-fonts
+tap "homebrew/cask-fonts"
+cask "font-fira-code"
