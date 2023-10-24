@@ -1,6 +1,5 @@
 [color]
 	ui = true
-
 [color "diff"]
 	commit = yellow bold
 	frag = magenta bold
@@ -9,42 +8,28 @@
 	new = green bold
 	old = red bold
 	whitespace = red reverse
-
 [color "diff-highlight"]
 	newHighlight = green bold 22
 	newNormal = green bold
 	oldHighlight = red bold 52
 	oldNormal = red bold
-
 [commit]
 	gpgsign = true
-
 [core]
 	editor = code --wait
 	pager = diff-so-fancy | less --tabs=4 -RFX
-
 [fetch]
 	prune = true
-
 [help]
 	autocorrect = 1
-
-[includeIf "gitdir:~/Documents/private/"]
-	path = ~/Documents/private/.gitconfig
-
-[includeIf "gitdir:~/Documents/work/"]
-	path = ~/Documents/work/.gitconfig
-
 [init]
 	defaultBranch = main
-
 [interactive]
 	diffFilter = diff-so-fancy --patch
-
 [push]
 	autoSetupRemote = true
 	default = current
-
 [user]
-	email = "5244986+marcobiedermann@users.noreply.github.com"
-	name = "Marco Biedermann"
+	email = 5244986+marcobiedermann@users.noreply.github.com.
+	name = Marco Biedermann
+	signingkey = 35FDF733DEED0D33
