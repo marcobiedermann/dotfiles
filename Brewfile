@@ -38,3 +38,12 @@ cask "visual-studio-code"
 tap "homebrew/cask-fonts"
 cask "font-fira-code"
 cask "font-fira-code-nerd-font"
+
+# work
+brew "aws-google-auth"
+brew "awscli"
+brew "sops"
+
+cask "1password"
+cask "aws-vpn-client"
+cask "zoom"
