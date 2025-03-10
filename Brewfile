@@ -36,8 +36,6 @@ cask "rectangle"
 cask "spotify"
 cask "visual-studio-code"
 
-# https://github.com/Homebrew/homebrew-cask-fonts
-tap "homebrew/cask-fonts"
 cask "font-fira-code"
 cask "font-fira-code-nerd-font"
 
