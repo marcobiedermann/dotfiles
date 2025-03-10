@@ -103,7 +103,7 @@ source $ZSH/oh-my-zsh.sh
 # Aliases
 alias cat="bat"
 alias cp="cp -irv"
-alias ls="exa"
+alias ls="eza --icons"
 alias mkdir="mkdir -pv"
 alias mv="mv -iv"
 alias rm="trash -v"

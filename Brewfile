@@ -2,6 +2,7 @@
 brew "bat"
 brew "curl"
 brew "diff-so-fancy"
+brew "eza"
 brew "fd"
 brew "ffmpeg"
 brew "fzf"
